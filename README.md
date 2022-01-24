@@ -1,4 +1,13 @@
-### Hi there 👋
+### TrueSight DAO
+- Our purpose is to build a Better World based on Fundamental Truth
+- Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
+- Our vision is a universal credibility protocol 
+- Our values are courage, perserverance, vigilance and temperance
+
+Our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
+Join us on [Discord](https://discord.gg/gEfypKdCEW)
+
+
 
 <!--
 **TrueSightDAO/TrueSightDAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
