@@ -4,8 +4,8 @@
 - Our vision is a universal credibility protocol 
 - Our values are courage, perserverance, vigilance and temperance
 
-Our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
-Join us on [Discord](https://discord.gg/gEfypKdCEW)
+- Please read our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
+- Please join our discussions on [Discord](https://discord.gg/gEfypKdCEW)
 
 
 
