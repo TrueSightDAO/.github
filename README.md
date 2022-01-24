@@ -1,3 +1,4 @@
+ ![image info](https://raw.githubusercontent.com/TrueSightDAO/TrueSightDAO/main/assets/truesight_icon.png)
 ### TrueSight DAO
 
 #### Who are we
