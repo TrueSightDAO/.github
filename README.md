@@ -1,9 +1,12 @@
 ### TrueSight DAO
+
+#### Who are we
 - Our purpose is to build a Better World based on Fundamental Truth
 - Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
 - Our vision is a universal credibility protocol 
 - Our values are courage, perserverance, vigilance and temperance
 
+#### Join Us
 - Please read our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - Please join our discussions on [Discord](https://discord.gg/gEfypKdCEW)
 
