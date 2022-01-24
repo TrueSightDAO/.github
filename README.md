@@ -1,4 +1,4 @@
-![image_info](https://raw.githubusercontent.com/TrueSightDAO/TrueSightDAO/main/assets/truesight_icon.png =250x250)
+![image_info](https://raw.githubusercontent.com/TrueSightDAO/TrueSightDAO/main/assets/truesight_icon.png)
 
 ### TrueSight DAO
 
