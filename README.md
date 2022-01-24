@@ -9,6 +9,7 @@
 - Our values are courage, perserverance, vigilance and temperance
 
 #### Join Us
+- Quick overview of [what we do](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf)
 - Please read our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - Please join our discussions on [Discord](https://discord.gg/gEfypKdCEW)
 
