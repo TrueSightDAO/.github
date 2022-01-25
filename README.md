@@ -13,11 +13,11 @@
 
 #### Support Wallets
 - Browser Wallets
-  - [Phantom] (https://phantom.app/)
-  - [Solflare] (https://solflare.com/)
+  - [Phantom](https://phantom.app/)
+  - [Solflare](https://solflare.com/)
 
 - IOS Mobile Wallets
-  - [Solflare] (https://solflare.com/)
+  - [Solflare](https://solflare.com/)
 
 <!--
 **TrueSightDAO/TrueSightDAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
