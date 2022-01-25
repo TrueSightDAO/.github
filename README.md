@@ -6,7 +6,7 @@
 - Our vision is a universal credibility protocol 
 - Our values are courage, perserverance, vigilance and temperance
 
-#### How to contribute
+## How to contribute
 Read our [quick intro](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf) on how you can get involved. Be part of our public discussions on [Discord](https://discord.gg/gEfypKdCEW) to find out what our DAO is undertaking right now as well as areas where you can immedaitely contribute to help. Do a deep dive into our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#) to understand our Tokenomics and Governance.
 
 In recognition for your contributions, you will get TrueSight DAO tokens (TSD) which grants you voting rights to the future of our DAO.
