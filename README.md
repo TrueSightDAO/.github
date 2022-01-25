@@ -1,5 +1,3 @@
-![image_info](https://raw.githubusercontent.com/TrueSightDAO/TrueSightDAO/main/assets/truesight_icon.png)
-
 ### TrueSight DAO
 
 #### Who are we
@@ -13,7 +11,13 @@
 - Please read our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - Please join our discussions on [Discord](https://discord.gg/gEfypKdCEW)
 
+#### Support Wallets
+- Browser Wallets
+  - [Phantom] (https://phantom.app/)
+  - [Solflare] (https://solflare.com/)
 
+- IOS Mobile Wallets
+  - [Solflare] (https://solflare.com/)
 
 <!--
 **TrueSightDAO/TrueSightDAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
