@@ -16,7 +16,6 @@ In recognition for your contributions, you will get TrueSight DAO tokens (TSD) w
 - [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 
 ## Community
-Where to find us
 - [Discord](https://discord.gg/gEfypKdCEW)
 - [Twitter](https://twitter.com/TrueSightDAO)
 - [Reddit](https://www.reddit.com/r/truesightme/)
