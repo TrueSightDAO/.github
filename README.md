@@ -1,22 +1,28 @@
-### TrueSight DAO
+# TrueSight DAO
 
-#### Who are we
+## Who are we
 - Our purpose is to build a Better World based on Fundamental Truth
 - Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
 - Our vision is a universal credibility protocol 
 - Our values are courage, perserverance, vigilance and temperance
 
 #### How to contribute
-Read our [quick intro](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf) on how you can get involved. Join our public discussion on [Discord](https://discord.gg/gEfypKdCEW) to find out what our DAO is undertaking right now as well as areas where you can immedaitely contribute to help.
+Read our [quick intro](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf) on how you can get involved. Be part of our public discussions on [Discord](https://discord.gg/gEfypKdCEW) to find out what our DAO is undertaking right now as well as areas where you can immedaitely contribute to help. Do a deep dive into our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#) to understand our Tokenomics and Governance.
 
 In recognition for your contributions, you will get TrueSight DAO tokens (TSD) which grants you voting rights to the future of our DAO.
 
-#### Join Us
-- Quick overview of [what we do](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf)
-- Please read our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
-- Please join our discussions on [Discord](https://discord.gg/gEfypKdCEW)
+## Resources
+- [What we do](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf)
+- [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 
-#### Supported Wallets
+## Community
+Where to find us
+- [Discord](https://discord.gg/gEfypKdCEW)
+- [Twitter](https://twitter.com/TrueSightDAO)
+- [Reddit](https://www.reddit.com/r/truesightme/)
+- [Facebook](https://www.facebook.com/TrueSightMe)
+
+## Supported Wallets
 - Browser Wallets
   - [Phantom](https://phantom.app/)
   - [Solflare](https://solflare.com/)
