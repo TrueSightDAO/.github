@@ -11,7 +11,12 @@
 - Please read our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - Please join our discussions on [Discord](https://discord.gg/gEfypKdCEW)
 
-#### Support Wallets
+#### How to contribute
+Please read our [quick intro](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf) on how you can get involved. By joining our public discussion on [Discord](https://discord.gg/gEfypKdCEW) to find out where our DAO is heading as well as areas where you can immedaitely contribute to help.
+
+In exchange for your contributions, you will get TrueSight DAO tokens (TSD) which you can then trade on the DEX.
+
+#### Supported Wallets
 - Browser Wallets
   - [Phantom](https://phantom.app/)
   - [Solflare](https://solflare.com/)
