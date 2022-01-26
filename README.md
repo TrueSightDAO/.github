@@ -7,7 +7,7 @@
 - Our values are courage, perserverance, vigilance and temperance
 
 ## What we do
-DAO members can earn by making correct market predictions with our protocol. They can also earn when other members pay to see their predictions.
+We are a DAO, where members can judge to earn. They can earn by making correct market predictions with our protocol. They can also earn when other members pay to see their predictions.
 
 Periodically, the DAO can vote to run a 7 day squid game. DAO members can join the Squid Game as competitors. They can also bet on competitors to earn. To find our more, read our [quick intro guide](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf).
 
