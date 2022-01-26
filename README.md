@@ -1,15 +1,20 @@
 # TrueSight DAO
 
-## Who are we
+## Why we exist
 - Our purpose is to build a Better World based on Fundamental Truth
 - Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
 - Our vision is a universal credibility protocol 
 - Our values are courage, perserverance, vigilance and temperance
 
-## How to contribute
-Read our [quick intro](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf) on how you can get involved. Be part of our public discussions on [Discord](https://discord.gg/gEfypKdCEW) to find out what our DAO is undertaking right now as well as areas where you can immedaitely contribute to help. Do a deep dive into our [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#) to understand our Tokenomics and Governance.
+## What we do
+DAO members can earn by using our protocol to make market predictions. They earn by making correct predictions. They can also earn when other members pay to see their predictions.
 
-In recognition for your contributions, you will get TrueSight DAO tokens (TSD) which grants you voting rights to the future of our DAO.
+Periodically, the DAO can vote to run a 7 day squid game. DAO members can join the Squid Game as competitors. They can also bet on competitors to earn. To find our more, read our [quick intro guide](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf).
+
+## How to participate
+Apart from making market predictions, other ways to start earning is by contributing insights or hunting for bounties listed on our bounty board. 
+
+The best way to start contributing insights is by becoming part of our public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
 
 ## Resources
 - [What we do](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf)
