@@ -7,9 +7,9 @@
 - Our values are courage, perserverance, vigilance and temperance
 
 ## What we do
-We are a DAO, where members can judge to earn. They can earn by making correct market predictions with our protocol. They can also earn when other members pay to see their predictions.
+We are a DAO, where members can build to earn. They can also earn by making correct market predictions with our protocol. They can also earn when other members pay to see their predictions.
 
-Periodically, the DAO can vote to run a 7 day squid game. DAO members can join the Squid Game as competitors. They can also bet on competitors to earn. To find our more, read our [quick intro guide](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf).
+Periodically, the DAO can vote to run a 7 War of Truths. DAO members can join the war as competitors. They can also bet on competitors to earn. To find our more, read our [quick intro guide](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf).
 
 ## How to participate
 Apart from making market predictions, other ways to start earning is by contributing insights or hunting for bounties listed on our bounty board. 
@@ -18,7 +18,8 @@ The best way to start contributing insights is by becoming part of our public di
 
 ## Resources
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
-- [White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
+- [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
+- [Our Protocol](https://github.com/TrueSightDAO/truesight_protocol)
 
 ## Community
 - [Discord](https://discord.gg/gEfypKdCEW)
