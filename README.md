@@ -17,6 +17,7 @@ Apart from making market predictions, other ways to start earning is by contribu
 The best way to start contributing insights is by becoming part of our public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
 
 ## Resources
+- [Submit a proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - [Our Protocol](https://github.com/TrueSightDAO/truesight_protocol)
