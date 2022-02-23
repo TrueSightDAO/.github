@@ -18,6 +18,7 @@ The best way to start contributing insights is by becoming part of our public di
 
 ## Resources
 - [Submit a proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
+- [Our ledger](https://docs.google.com/spreadsheets/d/1GE7PUq-UT6x2rBN-Q2ksogbWpgyuh2SaxJyG_uEK6PU/edit#gid=1773530044)
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - [Our Protocol](https://github.com/TrueSightDAO/truesight_protocol)
