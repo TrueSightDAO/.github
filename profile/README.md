@@ -25,9 +25,6 @@ The best way to start contributing insights is by becoming part of our public di
 
 ## Community
 - [Discord](https://discord.gg/gEfypKdCEW)
-- [Twitter](https://twitter.com/TrueSightDAO)
-- [Reddit](https://www.reddit.com/r/truesightme/)
-- [Facebook](https://www.facebook.com/TrueSightMe)
 
 ## Supported Wallets
 - Browser Wallets
