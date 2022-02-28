@@ -22,6 +22,7 @@ The best way to start contributing insights is by becoming part of our public di
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - [Our Protocol](https://github.com/TrueSightDAO/truesight_protocol)
+- [Our Vault](https://explorer.solana.com/address/6R98EWBJALzZxtN4iUQwCifuXK9jB7CeX4wRC7d6RBbK/largest)
 
 ## Community
 - [Discord](https://discord.gg/gEfypKdCEW)
