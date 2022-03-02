@@ -19,9 +19,9 @@ Another way is by joining our game play in our [Discord](https://discord.gg/RzMQ
 - [Discord](https://discord.gg/gEfypKdCEW)
 
 ## Our Treasury
-- [Our Vault : 5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY](https://solscan.io/account/5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY#tokenAccounts) - Address where all our DAO's assets and our TSD tokens are stored
-- [Our Escrow : 7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5](https://solscan.io/account/7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5#tokenAccounts) - Address where TSD submitted by members as prediction bids are stored
-- [Our Prize Pool : 5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy5](https://solscan.io/account/5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy5#tokenAccounts) - Address where TSD from game play accumulates 
+- [5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY](https://solscan.io/account/5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY#tokenAccounts) - Our Vault where all our DAO's assets and our TSD tokens are stored
+- [7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5](https://solscan.io/account/7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5#tokenAccounts) - Our Escrow where TSD submitted by members as prediction bids are stored
+- [5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy5](https://solscan.io/account/5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy5#tokenAccounts) - Our Prize Pool where TSD from game play accumulates 
 - [Our Mint](https://solscan.io/token/6R98EWBJALzZxtN4iUQwCifuXK9jB7CeX4wRC7d6RBbK#holders) - Our TSD's current distribution
 - [Buy TSD](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc) - Buy TSD to play our money game
 
