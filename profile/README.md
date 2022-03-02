@@ -20,9 +20,9 @@ The best way to start contributing insights is by becoming part of our public di
 - [Discord](https://discord.gg/gEfypKdCEW)
 
 ## Our Treasury
-- [Our Vault](https://solscan.io/account/5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY) - Address where all our DAO's assets and our TSD tokens are stored
-- [Our Escrow](https://solscan.io/account/7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5) - Address where TSD submitted by members as prediction bids are stored
-- [Our Prize Pool](https://solscan.io/account/5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy) - Address where TSD from game play accumulates 
+- [Our Vault](https://solscan.io/account/5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY#tokenAccounts) - Address where all our DAO's assets and our TSD tokens are stored
+- [Our Escrow](https://solscan.io/account/7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5#tokenAccounts) - Address where TSD submitted by members as prediction bids are stored
+- [Our Prize Pool](https://solscan.io/account/5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy5#tokenAccounts) - Address where TSD from game play accumulates 
 
 ## Resources
 - [Submit a proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
