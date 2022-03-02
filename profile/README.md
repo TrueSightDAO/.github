@@ -16,6 +16,14 @@ Apart from making market predictions, other ways to start earning is by contribu
 
 The best way to start contributing insights is by becoming part of our public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
 
+## Community
+- [Discord](https://discord.gg/gEfypKdCEW)
+
+## Our Treasury
+- [Our Vault](https://solscan.io/account/5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY) - Address where all our DAO's assets and our TSD tokens are stored
+- [Our Escrow](https://solscan.io/account/7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5) - Address where TSD submitted by members as prediction bids are stored
+- [Our Prize Pool](https://solscan.io/account/5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy) - Address where TSD from game play accumulates 
+
 ## Resources
 - [Submit a proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
 - [Our ledger](https://docs.google.com/spreadsheets/d/1GE7PUq-UT6x2rBN-Q2ksogbWpgyuh2SaxJyG_uEK6PU/edit#gid=1773530044)
@@ -23,9 +31,6 @@ The best way to start contributing insights is by becoming part of our public di
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - [Our Protocol](https://github.com/TrueSightDAO/truesight_protocol)
 - [Our Vault](https://explorer.solana.com/address/6R98EWBJALzZxtN4iUQwCifuXK9jB7CeX4wRC7d6RBbK/largest)
-
-## Community
-- [Discord](https://discord.gg/gEfypKdCEW)
 
 ## Supported Wallets
 - Browser Wallets
