@@ -23,8 +23,8 @@ The best way to start contributing insights is by becoming part of our public di
 - [Our Vault](https://solscan.io/account/5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY#tokenAccounts) - Address where all our DAO's assets and our TSD tokens are stored
 - [Our Escrow](https://solscan.io/account/7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5#tokenAccounts) - Address where TSD submitted by members as prediction bids are stored
 - [Our Prize Pool](https://solscan.io/account/5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy5#tokenAccounts) - Address where TSD from game play accumulates 
-- [Our Mint](https://solscan.io/token/6R98EWBJALzZxtN4iUQwCifuXK9jB7CeX4wRC7d6RBbK#holders) - Address where TSD from game play accumulates 
-- [Buy TSD](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc)
+- [Our Mint](https://solscan.io/token/6R98EWBJALzZxtN4iUQwCifuXK9jB7CeX4wRC7d6RBbK#holders) - Our TSD's current distribution
+- [Buy TSD](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc) - Buy TSD to play our money game
 
 ## Resources
 - [Submit a proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
@@ -32,7 +32,6 @@ The best way to start contributing insights is by becoming part of our public di
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - [Our Protocol](https://github.com/TrueSightDAO/truesight_protocol)
-- [Our Vault](https://explorer.solana.com/address/6R98EWBJALzZxtN4iUQwCifuXK9jB7CeX4wRC7d6RBbK/largest)
 
 ## Supported Wallets
 - Browser Wallets
