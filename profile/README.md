@@ -7,14 +7,13 @@
 - Our values are courage, perserverance, vigilance and temperance
 
 ## What we do
-We are a DAO, where members can build to earn. They can also earn by making correct market predictions with our protocol. They can also earn when other members pay to see their predictions.
+We are a DAO and we operate a money game. Members can earn in our economy by helping build our game or by making correct market predictions in our game. They can also earn by selling their predictions.
 
-Periodically, the DAO can vote to run a 7 War of Truths. DAO members can join the war as competitors. They can also bet on competitors to earn. To find our more, read our [quick intro guide](https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/2022%20True%20Sight%20DAO%20-%20concept%20presentation.pdf).
+Periodically, the DAO can vote to run a 7 War of Truths. DAO members can join the war as competitors. They can also bet on competitors to earn. To find our more, read our [quick intro guide](https://docs.google.com/presentation/d/1mAeCLO6FdP1-ucUvWx44JUVtnaLNfKZH/edit?usp=sharing&ouid=115975718038592349436&rtpof=true&sd=true).
 
 ## How to participate
-Apart from making market predictions, other ways to start earning is by contributing insights or hunting for bounties listed on our bounty board. 
-
-The best way to start contributing insights is by becoming part of our public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
+The easiest way to start contributing is by join public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
+Another way is by joining our game play in our [Discord](https://discord.gg/RzMQpwVPmw) after you have [bought some TSD tokens](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc).
 
 ## Community
 - [Discord](https://discord.gg/gEfypKdCEW)
