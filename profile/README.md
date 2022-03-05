@@ -16,7 +16,7 @@ The easiest way to start contributing is by join public discussions on [Discord]
 Another way is by joining our game play in our [Discord](https://discord.gg/RzMQpwVPmw) after you have [bought some TSD tokens](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc).
 
 ## Community
-- [Our Discord Chatroom](https://discord.gg/gEfypKdCEW)
+- [Our Chatroom](https://discord.gg/gEfypKdCEW)
 - [Our Events Calendar](https://sites.google.com/getdata.io/truesight-dao-events/home)
 
 ## Our Treasury
