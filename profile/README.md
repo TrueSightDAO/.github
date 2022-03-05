@@ -16,8 +16,8 @@ The easiest way to start contributing is by join public discussions on [Discord]
 Another way is by joining our game play in our [Discord](https://discord.gg/RzMQpwVPmw) after you have [bought some TSD tokens](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc).
 
 ## Community
-- [Discord](https://discord.gg/gEfypKdCEW)
-- [Events](https://sites.google.com/getdata.io/truesight-dao-events/home)
+- [Our Discord Chatroom](https://discord.gg/gEfypKdCEW)
+- [Our Events Calendar](https://sites.google.com/getdata.io/truesight-dao-events/home)
 
 ## Our Treasury
 - [5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY](https://solscan.io/account/5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY#tokenAccounts) - Our Vault where all our DAO's assets and our TSD tokens are stored
