@@ -17,6 +17,7 @@ Another way is by joining our game play in our [Discord](https://discord.gg/RzMQ
 
 ## Community
 - [Discord](https://discord.gg/gEfypKdCEW)
+- [Events](https://sites.google.com/getdata.io/truesight-dao-events/home)
 
 ## Our Treasury
 - [5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY](https://solscan.io/account/5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY#tokenAccounts) - Our Vault where all our DAO's assets and our TSD tokens are stored
