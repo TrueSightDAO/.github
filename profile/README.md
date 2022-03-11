@@ -13,7 +13,7 @@ Periodically, our DAO will vote to run a 7 War of Truths. DAO members can join t
 
 ## How to participate
 The easiest way to start contributing is by join public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
-Another way is by your [market prediction](https://forms.gle/sdhCGS3s2wHczQsNA) after you have [bought some TSD tokens](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc).
+Another way is by your [market prediction](https://truesight.me/game) after you have [bought some TSD tokens](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc).
 
 ## Community
 - [Our Chatroom](https://discord.gg/gEfypKdCEW)
