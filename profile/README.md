@@ -13,7 +13,7 @@ Periodically, our DAO will vote to run a 7 War of Truths. DAO members can join t
 
 ## How to participate
 The easiest way to start contributing is by join public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
-Another way is by your [market prediction](https://forms.gle/sdhCGS3s2wHczQsNA) after you have [bought some TSD tokens](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc).
+Another way is by your [market prediction](https://truesight.me/game) after you have [bought some TSD tokens](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc).
 
 ## Community
 - [Our Chatroom](https://discord.gg/gEfypKdCEW)
@@ -29,8 +29,8 @@ Another way is by your [market prediction](https://forms.gle/sdhCGS3s2wHczQsNA) 
 
 ## Resources
 - [Submit a proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
-- [Our Governance ledger](https://docs.google.com/spreadsheets/d/1GE7PUq-UT6x2rBN-Q2ksogbWpgyuh2SaxJyG_uEK6PU/edit#gid=950541536)
-- [Our Betting Pool ledger](https://docs.google.com/spreadsheets/d/1GE7PUq-UT6x2rBN-Q2ksogbWpgyuh2SaxJyG_uEK6PU/edit#gid=1346138146)
+- [Our Governance ledger](https://truesight.me/ledger)
+- [Our Betting Pool ledger](https://truesight.me/betting-pool-ledger)
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - [Our Protocol](https://github.com/TrueSightDAO/truesight_protocol)
