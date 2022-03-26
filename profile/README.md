@@ -9,7 +9,7 @@
 - Our daily actions are guided by our values - Autonomy, Integrity and Diversity.
 
 ## What we do
-We are a DAO and we operate a money game. Members can earn by [building](https://truesight.me/rubric) our game or by making correct market predictions in our game. They can also earn by selling their predictions.
+We are a DAO and we operate a money game. Members can earn by [building](https://truesight.me/rubric) our game or by [making](https://truesight.me/game) correct market predictions in our game. They can also earn by selling their predictions.
 
 Periodically, our DAO will vote to run a 7 War of Truths. DAO members can join the war as competitors. They can also bet on competitors to earn. To find our more, read our [quick game play intro guide](https://docs.google.com/presentation/d/1mAeCLO6FdP1-ucUvWx44JUVtnaLNfKZH/edit?usp=sharing&ouid=115975718038592349436&rtpof=true&sd=true).
 
