@@ -1,10 +1,11 @@
 # TrueSight DAO
 
 ## Why we exist
+- Our vision is the worldwide adoption of our universal credibility protocol which allows any individual to establish himself as a subject matter expert in his area of interest using blockchain. Our core thesis is if you have an accurate mental model of your environment then you are more likely to make an accurate prediction about the future than the average person.
 - Our purpose is to build a Better World based on Fundamental Truth
 - Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
-- Our vision is a universal credibility protocol 
-- Our values are courage, perserverance, vigilance and temperance
+
+- Our daily actions are guided by our values - Autonomy, Integrity and Diversity.
 
 ## What we do
 We are a DAO and we operate a money game. Members can earn in our economy by helping build our game or by making correct market predictions in our game. They can also earn by selling their predictions.
