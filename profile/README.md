@@ -1,7 +1,8 @@
 # TrueSight DAO
 
 ## Why we exist
-- Our vision is the worldwide adoption of our universal credibility protocol which allows any individual to establish himself as a subject matter expert in his area of interest using blockchain. Our core thesis is if you have an accurate mental model of your environment then you are more likely to make an accurate prediction about the future than the average person.
+- Our vision is the worldwide adoption of our universal credibility protocol which allows any individual to establish himself as a subject matter expert in his area of interest using blockchain. 
+- Our core thesis is if you have an accurate mental model of your environment then you are more likely to make an accurate prediction about the future than the average person.
 - Our purpose is to build a Better World based on Fundamental Truth because we believe making ignorant decisions is the root cause of human suffering.
 - Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
 - - Our immediate goal is to build a game to democratize hedge funds.
