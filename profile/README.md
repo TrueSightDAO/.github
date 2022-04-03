@@ -5,7 +5,7 @@
 - Our core thesis is if you have an accurate mental model of your environment then you are more likely to make an accurate prediction about the future than the average person.
 - Our purpose is to build a Better World based on Fundamental Truth because we believe making ignorant decisions is the root cause of human suffering.
 - Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
-- Our immediate goal is to build a game to democratize hedge funds.
+- Our immediate goal is to build a [game to democratize hedge funds](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1).
 - Our daily actions are guided by our values - Autonomy, Integrity and Diversity.
 
 ## What we do
