@@ -36,7 +36,7 @@ Another way is by your [market prediction](https://truesight.me/game) after you 
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - [Our Protocol](https://github.com/TrueSightDAO/truesight_protocol)
-- [How to earn TSD](https://truesight.me/game)
+- [How to earn](https://truesight.me/rubric)
 
 ## Supported Wallets
 - Browser Wallets
