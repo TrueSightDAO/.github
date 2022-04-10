@@ -5,13 +5,13 @@
 - Our core thesis is if you have an accurate mental model of your environment then you are more likely to make an accurate prediction about the future than the average person.
 - Our purpose is to build a Better World based on Fundamental Truth because we believe making ignorant decisions is the root cause of human suffering.
 - Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
-- Our immediate goal is to build a game to democratize hedge funds.
+- Our immediate goal is to build a [game to democratize hedge funds](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1).
 - Our daily actions are guided by our values - Autonomy, Integrity and Diversity.
 
 ## What we do
-We are a DAO and we operate a money game. Members can earn by [building](https://truesight.me/rubric) our game or by [making](https://truesight.me/game) correct market predictions in our game. They can also earn by selling their predictions.
+We are a DAO and we operate a [Game of Truth](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1). Members can earn by [building](https://truesight.me/rubric) our game or by [making](https://truesight.me/game) correct market predictions in our game. They can also earn by selling their predictions.
 
-Periodically, our DAO will vote to run a 7 War of Truths. DAO members can join the war as competitors. They can also bet on competitors to earn. To find our more, read our [quick game play intro guide](https://docs.google.com/presentation/d/1mAeCLO6FdP1-ucUvWx44JUVtnaLNfKZH/edit?usp=sharing&ouid=115975718038592349436&rtpof=true&sd=true).
+Periodically, our DAO will vote to run a 7 day Game of Truth. DAO members can join as competitors. They can also bet on competitors to earn. To find our more, read our [quick game play intro guide](https://docs.google.com/presentation/d/1mAeCLO6FdP1-ucUvWx44JUVtnaLNfKZH/edit?usp=sharing&ouid=115975718038592349436&rtpof=true&sd=true).
 
 ## How to participate
 The easiest way to start contributing is by join public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
@@ -36,7 +36,7 @@ Another way is by your [market prediction](https://truesight.me/game) after you 
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - [Our Protocol](https://github.com/TrueSightDAO/truesight_protocol)
-- [How to earn TSD](https://truesight.me/game)
+- [How to earn](https://truesight.me/rubric)
 
 ## Supported Wallets
 - Browser Wallets
