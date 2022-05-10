@@ -23,7 +23,8 @@ Another way is by your [market prediction](https://truesight.me/game) after you 
 - [Our Events Calendar](https://truesight.me/events)
 
 ## Our Treasury
-- [5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY](https://solscan.io/account/5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY#tokenAccounts) - Our Vault where all our DAO's assets and our TSD tokens are stored
+- [5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY](https://solscan.io/account/5iSkxWSbBM3nDYg8T85zCVXSD9baRoDRZuweqxDdYmUY#tokenAccounts) - Our Vault where all our DAO's assets and our TSD tokens are stored on the Solana Chain
+- [TCjSAxGbWWTw4wAoHsNhLn1acvjqK2mgR7](https://www.cointracker.io/wallet/tron?address=TCjSAxGbWWTw4wAoHsNhLn1acvjqK2mgR7) - Our Vault where all our DAO's assets (mainly USDT) are stored on the TRON Chain
 - [7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5](https://solscan.io/account/7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5#tokenAccounts) - Our Escrow where TSD submitted by members as prediction bids are stored
 - [5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy5](https://solscan.io/account/5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy#tokenAccounts) - Our Prize Pool where TSD from game play accumulates 
 - [Our Mint](https://solscan.io/token/6R98EWBJALzZxtN4iUQwCifuXK9jB7CeX4wRC7d6RBbK#holders) - Our TSD's current distribution
