@@ -9,13 +9,12 @@
 - Our daily actions are guided by our values - Autonomy, Integrity and Diversity.
 
 ## What we do
-We are a DAO and we operate a [Game of Truth](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1). Members can earn by [building](https://truesight.me/rubric) our game or by [making](https://truesight.me/game) correct market predictions in our game. They can also earn by selling their predictions.
+We are a DAO and we operate a Game of Truth. Members can earn by [building](https://truesight.me/rubric) our game or by making correct market predictions in our game once it is ready. They can also earn by selling their predictions.
 
 Periodically, our DAO will vote to run a 7 day Game of Truth. DAO members can join as competitors. They can also bet on competitors to earn. To find our more, read our [quick game play intro guide](https://docs.google.com/presentation/d/1mAeCLO6FdP1-ucUvWx44JUVtnaLNfKZH/edit?usp=sharing&ouid=115975718038592349436&rtpof=true&sd=true).
 
 ## How to participate
-The easiest way to start contributing is by join public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
-Another way is by your [market prediction](https://truesight.me/game) after you have [bought some TSD tokens](https://trade.dexlab.space/#/market/FLX66kLVmG1De27DTvHU2UkxbToK36k2b5bTaMroMqqc).
+The easiest way to start contributing is by joining our public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
 
 ## Community
 - [Our Chatroom](https://discord.gg/gEfypKdCEW)
