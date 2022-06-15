@@ -28,7 +28,7 @@ The easiest way to start contributing is by joining our public discussions on [D
 
 ## Resources
 - [Submit a proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
-- [Our Governance ledger](https://truesight.me/ledger)
+- [Our Contribution ledger](https://truesight.me/ledger)
 - [Our Betting Pool ledger](https://truesight.me/betting-pool-ledger)
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
