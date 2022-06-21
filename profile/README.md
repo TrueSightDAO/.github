@@ -15,9 +15,9 @@ We are a DAO and we operate the Game of Truth. Members can earn by [building](ht
 The easiest way to start contributing is by joining our public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
 
 ## Community
-- [Our Chatroom](https://discord.gg/gEfypKdCEW)
-- [Make a Market Prediction](https://truesight.me/game)
-- [Our Events Calendar](https://truesight.me/events)
+- [Our Chatroom on Discord](https://truesight.me/discord)
+- [Our Chatroom on WhatsApp](https://truesight.me/whatsapp)
+- [Our Chatroom on Telegram](https://truesight.me/telegram)
 
 ## Our Treasury
 - [3XMDP8jPYwkwfZf355LD9DxDvcPDqpkwj3HPWwXen1QG](https://solscan.io/account/3XMDP8jPYwkwfZf355LD9DxDvcPDqpkwj3HPWwXen1QG#tokenAccounts) - Our Vault where all our DAO's assets and our TDG tokens are stored on the Solana Chain
