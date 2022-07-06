@@ -1,0 +1,43 @@
+{
+
+  // EARLY BIRD
+  // The date our system starts airdropping USDT for new signups
+  "early_bird_start_date": "2022-08-15",
+
+
+
+  // REFERRAL PROGRAM
+  // Which date does our referral program becomes active
+  "referral_program_start_date": "2022-08-15",
+
+  // USDT bonu airdropped to successful referral
+  "referral_usdt_bonus": 1,
+
+
+
+  // GAME PLAY USDT DISTRIBUTION
+  // Minimum amount distributed to all predictions that are accurate for the day
+  "minimum_daily_payout": 10,
+
+  // Minimum amount needed to create a prediction
+  "minimum_usdt_stake_per_prediction": 1,
+
+
+
+  // INACCURATELY STAKED USDT DISTRIBUTION
+  // Percentage DAO takes from all USDT tokens staked on inaccurate prediction
+  "inaccurate_prediction_dao_rake": 0.3,
+
+  // Percentage of remaining USDT tokens that gets channel to daily pool
+  "inaccurate_prediction_contribution_prize_pool_daily": 0.65,
+
+  // Percentage of remaining USDT tokens that gets channel to daily pool
+  "inaccurate_prediction_contribution_prize_pool_monthly": 0.05,
+
+
+
+  // SCORING
+  // Time bonus granted to ON predictions for how many days into the the future the prediction is for
+  "inverse_theta": 0.273972602739726 
+  
+}
