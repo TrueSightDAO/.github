@@ -41,6 +41,7 @@ The easiest way to start contributing is by joining our public discussions on on
   - [Solflare](https://solflare.com/)
 
 - IOS Mobile Wallets
+  - [Phantom](https://phantom.app/)
   - [Solflare](https://solflare.com/)
 
 <!--
