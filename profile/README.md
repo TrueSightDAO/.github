@@ -12,7 +12,7 @@
 We are a DAO and we operate the Game of Truth. Members can earn by [building](https://truesight.me/rubric) our game or by making correct market predictions in our game once it is ready. They can also earn by selling their predictions.
 
 ## How to participate
-The easiest way to start contributing is by joining our public discussions on [Discord](https://discord.gg/gEfypKdCEW). 
+The easiest way to start contributing is by joining our public discussions on one of our channels
 
 ## Community
 - [Our Chatroom on Discord](https://truesight.me/discord)
