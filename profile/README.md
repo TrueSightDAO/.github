@@ -41,14 +41,14 @@ The easiest way to start contributing is by joining our public discussions on on
 - [Our Mint](https://solscan.io/token/3wmsJkKWLdFT4tF4rG8zUZQ8M4hKUDtDuJW8q6i9KbgF#holders) - Our current TDG governance tokens's distribution
 
 ## Resources
-- [Submit a proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
-- [Submit your contribution](https://truesight.me/submit-contribution)
+- [Submit a Proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
+- [Submit your Contribution](https://truesight.me/submit-contribution)
 - [Our Contribution ledger](https://truesight.me/ledger)
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - [Our Protocol - Solana](https://github.com/TrueSightDAO/truesight_protocol)
 - [Our Protocol - EVM](https://github.com/TrueSightDAO/TrueChain)
-- [How to earn governance tokens](https://truesight.me/rubric)
+- [Earn by Contributing](https://truesight.me/rubric)
 
 ## Supported Wallets
 - Browser Wallets
