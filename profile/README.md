@@ -25,6 +25,9 @@ We operate the Game of Truth. Members can earn by [building](https://truesight.m
 
 ![How it works: Guru credibility is established over time](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_sponsor_game_play_4.jpg)
 
+**Types of Credibility we will Support**
+![How it works: The different types of oracles](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_types_of_credibility.jpg)
+
 ## How to participate
 The easiest way to start contributing is by joining our public discussions on one of our channels
 
