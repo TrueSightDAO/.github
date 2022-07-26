@@ -47,8 +47,8 @@ The easiest way to start contributing is by joining our public discussions on on
 - [Submit a Proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
 - [Submit your Contribution](https://truesight.me/submit-contribution)
 - [Our Contribution ledger](https://truesight.me/ledger)
-- [Our Protocol - Solana](https://github.com/TrueSightDAO/truesight_protocol)
-- [Our Protocol - EVM](https://github.com/TrueSightDAO/TrueChain)
+- [Our Protocol on Solana](https://github.com/TrueSightDAO/truesight_protocol)
+- [Our Layer 1 Protocol - TrueChain](https://github.com/TrueSightDAO/TrueChain)
 
 
 ## Supported Wallets
