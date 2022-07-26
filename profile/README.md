@@ -3,13 +3,9 @@
 ## Who are we
 ![How it works: Why are we doing this?](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220708%20-%20Gary%20the%20real%20threat.jpg)
 
-We are a community of globally distributed contributors who come together with the purpose of Building a Better World based on Verifiable Truth. 
-
-We believe information pollution (fake news) is destabilizing liberal democratic societies and causing human suffering through ignorant decisions worldwide.
-
-Our mission is to fight fake news by providing people with the clarity to make good decisions.
-
-Our values are Autonomy, Integrity and Diversity.
+- We are a community of globally distributed contributors who come together with the purpose of Building a Better World based on Verifiable Truth. 
+- We believe information pollution (fake news) is destabilizing liberal democratic societies and causing human suffering through ignorant decisions worldwide.
+- Our values are Autonomy, Integrity and Diversity.
 
 ## Why we exist
 ![How it works: Guru creates a prediction](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_vision.jpg)
@@ -18,11 +14,16 @@ Our values are Autonomy, Integrity and Diversity.
 - Our core thesis is if you have an accurate mental model of your environment then you are more likely to make an accurate prediction about the future than the average person.
 - Our purpose is to build a Better World based on Verifiable Truth because we believe making ignorant decisions is the root cause of human suffering.
 - Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
-- Our immediate goal is to build a [game to democratize hedge funds](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1).
-- Our daily actions are guided by our values - Autonomy, Integrity and Diversity.
+- Our immediate goal is to build a [game to democratize truth](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1).
 
 ## What we do
 We are a DAO and we operate the Game of Truth. Members can earn by [building](https://truesight.me/rubric) our game or by making correct market predictions in our game once it is ready. They can also earn by selling their predictions.
+
+![How it works: Guru creates a prediction](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_sponsor_game_play_2.jpg)
+
+![How it works: Smart contract validates prediction](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_sponsor_game_play_3.jpg)
+
+![How it works: Guru credibility is established over time](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_sponsor_game_play_4.jpg)
 
 ## How to participate
 The easiest way to start contributing is by joining our public discussions on one of our channels
@@ -41,12 +42,13 @@ The easiest way to start contributing is by joining our public discussions on on
 
 ## Resources
 - [Submit a proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
+- [Submit your contribution](https://truesight.me/submit-contribution)
 - [Our Contribution ledger](https://truesight.me/ledger)
-- [Our Betting Pool ledger](https://truesight.me/betting-pool-ledger)
 - [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
-- [Our Protocol](https://github.com/TrueSightDAO/truesight_protocol)
-- [How to earn](https://truesight.me/rubric)
+- [Our Protocol - Solana](https://github.com/TrueSightDAO/truesight_protocol)
+- [Our Protocol - EVM](https://github.com/TrueSightDAO/TrueChain)
+- [How to earn governance tokens](https://truesight.me/rubric)
 
 ## Supported Wallets
 - Browser Wallets
