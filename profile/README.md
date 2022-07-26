@@ -48,7 +48,7 @@ The easiest way to start contributing is by joining our public discussions on on
 - [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
 - [Our Protocol - Solana](https://github.com/TrueSightDAO/truesight_protocol)
 - [Our Protocol - EVM](https://github.com/TrueSightDAO/TrueChain)
-- [Earn by Contributing](https://truesight.me/rubric)
+- [Various ways to earn through Contributions](https://truesight.me/rubric)
 
 ## Supported Wallets
 - Browser Wallets
