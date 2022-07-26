@@ -1,6 +1,19 @@
 # TrueSight DAO
 
+## Who are we
+![How it works: Why are we doing this?](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220708%20-%20Gary%20the%20real%20threat.jpg)
+
+We are a community of globally distributed contributors who come together with the purpose of Building a Better World based on Verifiable Truth. 
+
+We believe information pollution (fake news) is destabilizing liberal democratic societies and causing human suffering through ignorant decisions worldwide.
+
+Our mission is to fight fake news by providing people with the clarity to make good decisions.
+
+Our values are Autonomy, Integrity and Diversity.
+
 ## Why we exist
+![How it works: Guru creates a prediction](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_vision.jpg)
+
 - Our vision is the worldwide adoption of our universal credibility protocol which allows any individual to establish himself as a subject matter expert in his area of interest using blockchain. 
 - Our core thesis is if you have an accurate mental model of your environment then you are more likely to make an accurate prediction about the future than the average person.
 - Our purpose is to build a Better World based on Verifiable Truth because we believe making ignorant decisions is the root cause of human suffering.
