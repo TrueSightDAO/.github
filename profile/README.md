@@ -17,7 +17,7 @@
 - Our immediate goal is to build a [game to democratize truth](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1).
 
 ## What we do
-We are a DAO and we operate the Game of Truth. Members can earn by [building](https://truesight.me/rubric) our game or by making correct market predictions in our game once it is ready. They can also earn by selling their predictions.
+We operate the Game of Truth. Members can earn by [building](https://truesight.me/rubric) our game or by making correct market predictions in our game once it is ready.
 
 ![How it works: Guru creates a prediction](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_sponsor_game_play_2.jpg)
 
