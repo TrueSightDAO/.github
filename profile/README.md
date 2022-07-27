@@ -14,7 +14,7 @@
 - Our core thesis is if you have an accurate mental model of your environment then you are more likely to make an accurate prediction about the future than the average person.
 - Our purpose is to build a Better World based on Verifiable Truth because we believe making ignorant decisions is the root cause of human suffering.
 - Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
-- Our immediate goal is to build a [game to democratize truth](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1).
+- Our immediate goal is to build a [game to meritocratize truth](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1).
 
 ## What we do
 We operate the Game of Truth. Members can earn by [building](https://truesight.me/rubric) our game or by making correct market predictions in our game once it is ready.
