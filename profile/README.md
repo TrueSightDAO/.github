@@ -4,8 +4,8 @@
 ![How it works: Why are we doing this?](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220708%20-%20Gary%20the%20real%20threat.jpg)
 
 - We are a community of globally distributed contributors who deeply value Autonomy, Integrity and Diversity. 
-- We believe information pollution (fake news) is destabilizing liberal democratic societies and causing human suffering through ignorant decisions worldwide.
-- We have come together with the purpose of Building a Better World based on Verifiable Truth to reinstate our previous values. 
+- We believe information pollution (fake news) is destabilizing liberal democratic societies, causing human suffering through ignorant decisions worldwide and eroding values we hold dear.
+- We have come together with the purpose of Building a Better World based on Verifiable Truth. 
 
 
 ## Why we exist
