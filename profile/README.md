@@ -1,59 +1,43 @@
 # TrueSight DAO
 
 ## Who are we
-![How it works: Why are we doing this?](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220708%20-%20Gary%20the%20real%20threat.jpg)
-
-- We are a community of globally distributed contributors who deeply value Autonomy, Integrity and Diversity. 
-- We believe information pollution (fake news) is destabilizing liberal democratic societies, causing human suffering through ignorant decisions worldwide and eroding values we hold dear.
-- We have come together with the purpose of Building a Better World based on Verifiable Truth. 
+- We are a DAO guided by our core values of Autonomy, Integrity and Diversity. 
+- We believe in the inherent divinity within each individual and recognize that upholding truth is crucial for championing social and environmental justice, which are fundamental pillars for safeguarding this divinity.
 
 
 ## Why we exist
-![How it works: Guru creates a prediction](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_vision.jpg)
+- Our purpose is to build a Better World based on Verifiable Truth because we believe unjust business practises causes widespread human suffering.
 
-- Our vision is a network of complementary projects to tackle various aspects of Information Pollution as well as high impact social issues surfaced once the fog of ignorance gets lifted.
-- Our core thesis is if you have an accurate mental model of your environment then you are more likely to make an accurate prediction about the future than the average person.
-- Our purpose is to build a Better World based on Verifiable Truth because we believe making ignorant decisions is the root cause of human suffering.
-- Our mission is to fight information pollution by providing individuals with actional insights to make critical decisions
-- Our immediate goal is to build a [game to meritocratize truth](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1).
+- Our vision is a future where a thriving, sustainable blockchain ecosystem of profitable businesses actively promotes social and environmental justice. A world where humanity lives in harmony with fellow sentient beings and the natural world.
+
+- Our core thesis is a metagame where participants collaboratively build profitable businesses while validating these four key hypotheses: 
+    - we can extend the open-source ethos beyond tech
+    - we can employ blockchain for fair value distribution
+    - we can surpass collective contributions with profits
+    - we can enable a crypto-based universal basic income for token holders
+
 
 ## What we do
-We operate the Game of Truth. Members can earn by [building](https://truesight.me/rubric) our game or by making correct market predictions in our game once it is ready.
+![Our Meta Game](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_vision.jpg)
 
-![How it works: Guru creates a prediction](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_sponsor_game_play_2.jpg)
+- Our mission is to empower change by earning governance tokens through building and contributing to businesses. These tokens serve as the bedrock of our impact, enabling us to drive social and environmental justice through profitable ventures. By leveraging the generated profits, we enhance the value of our governance tokens, empowering us to create a meaningful and positive difference in the world.
 
-![How it works: Smart contract validates prediction](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_sponsor_game_play_3.jpg)
-
-![How it works: Guru credibility is established over time](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_sponsor_game_play_4.jpg)
-
-
-## Types of Credibility 
-There are many different categories of decision making where Truth is important. These are the categories we are looking to extend our eco-system to  support in the near future.
-
-![How it works: The different types of oracles](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_types_of_credibility.jpg)
 
 
 ## How to participate
-The easiest way to start contributing is by joining our public discussions on one of our channels
-
-## Community
-- [Our Chatroom on Discord](https://truesight.me/discord)
-- [Our Chatroom on WhatsApp](https://truesight.me/whatsapp)
-- [Our Chatroom on Telegram](https://truesight.me/telegram)
+The easiest way to start earning is to do the follow these steps
+- Read [our White Paper](https://truesight.me/whitepaper) 
+- Joining our public discussions in our [Beer Hall](https://truesight.me//beerhall)
 
 ## Our Treasury
-- [3XMDP8jPYwkwfZf355LD9DxDvcPDqpkwj3HPWwXen1QG](https://solscan.io/account/3XMDP8jPYwkwfZf355LD9DxDvcPDqpkwj3HPWwXen1QG#tokenAccounts) - Our Vault where all our DAO's assets and our TDG tokens are stored on the Solana Chain
-- [TCjSAxGbWWTw4wAoHsNhLn1acvjqK2mgR7](https://tronscan.org/#/address/TCjSAxGbWWTw4wAoHsNhLn1acvjqK2mgR7) - Our Vault where all our DAO's assets (mainly USDT) are stored on the TRON Chain
-- [7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5](https://solscan.io/account/7fHHgY6Rpx63ancGYJKUgtQ6JdzQ3SuLj991KvqHmZu5#tokenAccounts) - Our Escrow where USDT submitted by members as prediction bids are stored
-- [5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy5](https://solscan.io/account/5Bbk3FGwXzLCbPSoiHYtHBwsBfYqndBY8cCg5r3xedvy#tokenAccounts) - Our Prize Pool where USDT from game play accumulates 
+- [Vault](https://truesight.me/vault) - where all our DAO's assets and our TDG tokens are stored on the Solana Chain
 - [Our Mint](https://solscan.io/token/3wmsJkKWLdFT4tF4rG8zUZQ8M4hKUDtDuJW8q6i9KbgF#holders) - Our current TDG governance tokens's distribution
 
 ## Resources
-- [What we do](https://docs.google.com/presentation/d/1WfNmf9fSkPLsesgu1NQKUbAJ42gvlFU5/edit#slide=id.g106086a7c69_0_1)
-- [Our White Paper](https://docs.google.com/document/d/1H_LAioUeYvbSuuCuiPCd87t4VLx_PkqXBn3ggIn8Fxs/edit#)
+- [Our White Paper](https://truesight.me/whitepaper)
 - [Various ways to earn through Contributions](https://truesight.me/rubric)
 - [Submit a Proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
-- [Submit your Contribution](https://truesight.me/submit-contribution)
+- [Acknowledge Contribution Made](https://truesight.me/submit-contribution)
 - [Our Contribution ledger](https://truesight.me/ledger)
 - [Our Protocol on Solana](https://github.com/TrueSightDAO/truesight_protocol)
 - [Our Layer 1 Protocol - TrueChain](https://github.com/TrueSightDAO/TrueChain)
