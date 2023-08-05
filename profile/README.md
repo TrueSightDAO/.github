@@ -1,5 +1,7 @@
 # TrueSight DAO
 
+<p style="text-align: center;">![Our Meta Game](https://github.com/TrueSightDAO/.github/blob/main/assets/justice_card.jpg?raw=true)</p>
+
 ## Who are we
 - We are a DAO guided by our core values of Autonomy, Integrity and Diversity. 
 - We believe in the inherent divinity within each individual and recognize that upholding truth is crucial for championing social and environmental justice, which are fundamental pillars for safeguarding this divinity.
@@ -10,13 +12,13 @@
 
 - Our vision is a future where a thriving, sustainable blockchain ecosystem of profitable businesses actively promotes social and environmental justice. A world where humanity lives in harmony with fellow sentient beings and the natural world.
 
+- Our mission is to drive social and environmental justice through profitable ventures, using governance tokens as the foundation of our impact and value creation.
+
 - Our core thesis is a metagame where participants collaboratively build profitable businesses while validating these four key hypotheses: 
     - we can extend the open-source ethos beyond tech
     - we can employ blockchain for fair value distribution
     - we can surpass collective contributions with profits
     - we can enable a crypto-based universal basic income for token holders
-
-- Our mission is to drive social and environmental justice through profitable ventures, using governance tokens as the foundation of our impact and value creation.
 
 
 ## What we do
@@ -25,8 +27,7 @@
 - We operate a meta game, where participants build and contribute to profitable business in exchange for governance tokens. 
 - The businesses we discover and build aims to address social and environmental issues. 
 - The profits generated from these business are then used to enhance the value of our governance tokens, 
-- This virtuos cycle empowers us to create a meaningful and positive difference in the world.
-
+- This virtuous cycle empowers us to create a meaningful and positive difference in the world.
 
 
 ## How to participate
