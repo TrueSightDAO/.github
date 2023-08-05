@@ -1,6 +1,6 @@
 # TrueSight DAO
 
-![Our Meta Game](https://github.com/TrueSightDAO/.github/blob/main/assets/justice_card.jpg?raw=true)
+![Our Meta Game](https://github.com/TrueSightDAO/.github/blob/main/assets/justice_card.png)
 
 ## Who are we
 - We are a DAO guided by our core values of Autonomy, Integrity and Diversity. 
