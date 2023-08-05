@@ -16,11 +16,16 @@
     - we can surpass collective contributions with profits
     - we can enable a crypto-based universal basic income for token holders
 
+- Our mission is to drive social and environmental justice through profitable ventures, using governance tokens as the foundation of our impact and value creation.
+
 
 ## What we do
-![Our Meta Game](https://raw.githubusercontent.com/TrueSightDAO/.github/main/assets/20220610_github_vision.jpg)
+![Our Meta Game](https://github.com/TrueSightDAO/.github/blob/main/assets/20230804-%20gary_meta_game.png?raw=true)
 
-- Our mission is to empower change by earning governance tokens through building and contributing to businesses. These tokens serve as the bedrock of our impact, enabling us to drive social and environmental justice through profitable ventures. By leveraging the generated profits, we enhance the value of our governance tokens, empowering us to create a meaningful and positive difference in the world.
+- We operate a meta game, where participants build and contribute to profitable business in exchange for governance tokens. 
+- The businesses we discover and build aims to address social and environmental issues. 
+- The profits generated from these business are then used to enhance the value of our governance tokens, 
+- This virtuos cycle empowers us to create a meaningful and positive difference in the world.
 
 
 
