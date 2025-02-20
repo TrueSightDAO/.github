@@ -3,22 +3,23 @@
 ![Our Meta Game](https://github.com/TrueSightDAO/.github/blob/main/assets/justice_card.png)
 
 ## Who are we
-- We are a DAO guided by our core values of Autonomy, Integrity and Diversity. 
+- We are a DAO guided by our core values of Autonomy, Trustlessness and Diversity. 
 - We believe in the inherent divinity within each individual and recognize that upholding truth is crucial for championing social and environmental justice, which are fundamental pillars for safeguarding this divinity.
 
 
 ## Why we exist
-- Our purpose is to build a Better World based on Verifiable Truth because we believe unjust business practises causes widespread human suffering.
+- TrueSight DAO envisions a world where humanity is reconnected with its inherent divinity, embraces love for all beings, and lives in harmony with nature. We believe this vision will be realized by restoring social and environmental justice through open-source principles, transparency, and accountability.
 
-- Our vision is a future where a thriving, sustainable blockchain ecosystem of profitable businesses actively promotes social and environmental justice. A world where humanity lives in harmony with fellow sentient beings and the natural world.
+- We bring our vision to life by driving positive change through profitable social ventures that promote social and environmental justice, alleviating suffering. By building and contributing to these ventures, we earn governance tokens that increase in value as our impact grows. This increasing value allows us to create a meaningful impact on the world while supporting the self-actualization of our members.
 
-- Our mission is to drive social and environmental justice through profitable ventures, using governance tokens as the foundation of our impact and value creation.
+- Our core values are Autonomy, Trustlessness, and Diversity.
 
 - Our core thesis is a metagame where participants collaboratively build profitable businesses while validating these four key hypotheses: 
-    - we can extend the open-source ethos beyond tech
-    - we can employ blockchain for fair value distribution
-    - we can surpass collective contributions with profits
-    - we can enable a crypto-based universal basic income for token holders
+    - Open-source principles have the potential to extend far beyond the tech realm, fostering impactful businesses capable of disrupting unjust practices.
+
+    - Blockchain technology empowers precise accounting and equitable distribution of economic value, rewarding contributors according to their inputs.
+
+    - Individuals with a clear vision of their fully realized selves are more likely to take action when presented with a path towards their truest potential.
 
 
 ## What we do
