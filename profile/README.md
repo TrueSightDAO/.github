@@ -2,12 +2,7 @@
 
 ![Our Meta Game](https://github.com/TrueSightDAO/.github/blob/main/assets/justice_card.png)
 
-## Who are we
-- We are a DAO guided by our core values of Mindfulness, Compassion and Equanimity. 
-- We believe in the inherent divinity within each individual and recognize that upholding truth is crucial for championing social and environmental justice, which are fundamental pillars for safeguarding this divinity.
-
-
-## Why we exist
+## Who are we and why we exist
 - TrueSight DAO envisions a world where humanity is reconnected with its inherent divinity, embraces love for all beings, and lives in harmony with nature. We believe this vision will be realized by restoring social and environmental justice through open-source principles, transparency, and accountability.
 
 - We bring our vision to life by driving positive change through profitable social ventures that promote social and environmental justice, alleviating suffering. By building and contributing to these ventures, we earn governance tokens that increase in value as our impact grows. This increasing value allows us to create a meaningful impact on the world while supporting the self-actualization of our members.
