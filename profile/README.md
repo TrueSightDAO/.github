@@ -3,7 +3,7 @@
 ![Our Meta Game](https://github.com/TrueSightDAO/.github/blob/main/assets/justice_card.png)
 
 ## Who are we
-- We are a DAO guided by our core values of Autonomy, Trustlessness and Diversity. 
+- We are a DAO guided by our core values of Mindfulness, Compassion and Equanimity. 
 - We believe in the inherent divinity within each individual and recognize that upholding truth is crucial for championing social and environmental justice, which are fundamental pillars for safeguarding this divinity.
 
 
@@ -12,7 +12,7 @@
 
 - We bring our vision to life by driving positive change through profitable social ventures that promote social and environmental justice, alleviating suffering. By building and contributing to these ventures, we earn governance tokens that increase in value as our impact grows. This increasing value allows us to create a meaningful impact on the world while supporting the self-actualization of our members.
 
-- Our core values are Autonomy, Trustlessness, and Diversity.
+- Our core values are Mindfulness, Compassion and Equanimity.
 
 - Our core thesis is a metagame where participants collaboratively build profitable businesses while validating these four key hypotheses: 
     - Open-source principles have the potential to extend far beyond the tech realm, fostering impactful businesses capable of disrupting unjust practices.
