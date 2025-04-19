@@ -34,7 +34,7 @@ The easiest way to start earning is to do the follow these steps
 ## Our Treasury
 - [Vault](https://truesight.me/vault) - where all our DAO's assets and our TDG tokens are stored on the Solana Chain
 - [Our Mint](https://solscan.io/token/3wmsJkKWLdFT4tF4rG8zUZQ8M4hKUDtDuJW8q6i9KbgF#holders) - Our current TDG governance tokens's distribution
-- [Our Codified Tokenomics]([https://truesight.me/vault](https://github.com/TrueSightDAO/tokenomics)) - Automated scripts that scores WhatsApp/Telegram contributions; manages DAO assets, balances.
+- [Our Codified Tokenomics](https://github.com/TrueSightDAO/tokenomics) - Automated scripts that scores WhatsApp/Telegram contributions; manages DAO assets, balances.
 
 ## Resources
 - [Our White Paper](https://truesight.me/whitepaper)
