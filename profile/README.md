@@ -29,7 +29,7 @@
 ## How to participate
 The easiest way to start earning is to do the follow these steps
 - Read [our White Paper](https://truesight.me/whitepaper) 
-- Joining our public discussions in on [Telegram](https://t.me/TrueSightDAO)
+- Joining our co-creation space on [Telegram](https://t.me/TrueSightDAO)
 
 ## Our Treasury
 - [Vault](https://truesight.me/vault) - where all our DAO's assets and our TDG tokens are stored on the Solana Chain
