@@ -29,20 +29,17 @@
 ## How to participate
 The easiest way to start earning is to do the follow these steps
 - Read [our White Paper](https://truesight.me/whitepaper) 
-- Joining our public discussions in our [Beer Hall](https://truesight.me//beerhall)
+- Joining our co-creation space on [Telegram](https://t.me/TrueSightDAO)
 
 ## Our Treasury
 - [Vault](https://truesight.me/vault) - where all our DAO's assets and our TDG tokens are stored on the Solana Chain
 - [Our Mint](https://solscan.io/token/3wmsJkKWLdFT4tF4rG8zUZQ8M4hKUDtDuJW8q6i9KbgF#holders) - Our current TDG governance tokens's distribution
+- [Our Codified Tokenomics](https://github.com/TrueSightDAO/tokenomics) - Automated scripts that scores WhatsApp/Telegram contributions; manages DAO assets, balances.
 
 ## Resources
 - [Our White Paper](https://truesight.me/whitepaper)
-- [Various ways to earn through Contributions](https://truesight.me/rubric)
-- [Submit a Proposal](https://forms.gle/7eUEPFD192x3Wfkr8)
-- [Acknowledge Contribution Made](https://truesight.me/submit-contribution)
+- [Co-Create with us on Telegram](https://t.me/TrueSightDAO)
 - [Our Contribution ledger](https://truesight.me/ledger)
-- [Our Protocol on Solana](https://github.com/TrueSightDAO/truesight_protocol)
-- [Our Layer 1 Protocol - TrueChain](https://github.com/TrueSightDAO/TrueChain)
 
 
 ## Supported Wallets
