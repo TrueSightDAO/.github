@@ -1,0 +1,63 @@
+read agentic_ai_context
+
+I have just created a new folder call butterfly_effects_club. COuld you verify? 
+
+There is already a google credential json file
+
+Let's have a discussion
+
+the folks from ERA just responded with records of 98 rows in 
+https://docs.google.com/spreadsheets/d/1pApVCRqsDw9AjPUTc3fMUfMh-8H4Ne1HYuQ_d6xItog/edit?gid=0#gid=0
+
+I am thinking that we should create a corresponding github repo in TrueSight DAO organization to mirror this folder
+
+and in this repo we should include a new file called SCHEMA.md which documents the columns of the sheets in 
+https://docs.google.com/spreadsheets/d/1pApVCRqsDw9AjPUTc3fMUfMh-8H4Ne1HYuQ_d6xItog/edit?gid=0#gid=0
+
+We might end up doing some renaming
+
+Currently these are the columns
+Name	
+School	
+Learner Type	
+Graduation Date
+
+
+I am thinking we should extend with the following columns, private key and public signature much like the convention in 
+https://dapp.truesight.me/create_signature.html
+
+I think the repo should be set as a github page repo... perhaps butterfly-effect-club.truesight.me
+We should probably copy this module over 
+https://dapp.truesight.me/create_signature.html
+
+However perhaps we sohuld also consider allowing the user to simply set the private and public key... 
+
+
+Check out https://truesight.me/programs/butterfly-effect/index.html
+For each credential listed in the google sheet we should have a corresponding record on the listing. Could you check if the dao_client has all the methods required to do so. I am also thinking right now for example
+https://truesight.me/programs/butterfly-effect/credentials/#gary-teh
+
+profile already has certificate and credential PDF already generated
+
+My thoughts is that instead of one signel event sent to Edgar, resulting in the creation of the full profile, there should be two events, one for generating the profile and the credential history the other which is the certificate being generated when the other event gets created
+
+
+And there should be a python or GAS script in the repository where when triggered reads from 
+https://docs.google.com/spreadsheets/d/1qbZZhf-_7xzmDTriaJVWj6OZshyQsFkdsAV8-pyzASQ/edit?gid=0#gid=0 "Telegram Chat Logs"
+
+Finds the rows that are not already processed and then generating either the profile or the certificate
+
+And then for each row processed it should create a new entry on https://docs.google.com/spreadsheets/d/1pApVCRqsDw9AjPUTc3fMUfMh-8H4Ne1HYuQ_d6xItog/edit?gid=0#gid=0 where audit trail is maintained... something similar in pattern to 
+
+https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit?gid=1294422643#gid=1294422643
+"DApp Remarks"
+
+Also also perhaps on https://docs.google.com/spreadsheets/d/1pApVCRqsDw9AjPUTc3fMUfMh-8H4Ne1HYuQ_d6xItog/edit?gid=0#gid=0, it should have additional columns which indicates 
+
+- the URL of profile of the student or teacher
+- credential PDF url
+- certification URL
+
+And then for the landing page index.html of butterfly_effects_club once the user has authenticated if the registered is associated with one of the editors of https://docs.google.com/spreadsheets/d/1pApVCRqsDw9AjPUTc3fMUfMh-8H4Ne1HYuQ_d6xItog/edit?gid=0#gid=0, it should regconized that this is a systems administrator for the butterfly-effect-club.truesight.me
+
+What are your thoughts? Let's discuss first. Dont create anything yet.
